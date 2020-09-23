@@ -1,6 +1,15 @@
 <<<<<<< HEAD
 # prueba_linux
 
+I makes this application just with educational ends.
+It's made on framework Flutter
+it was built with a oficial guia on https://flutter.dev/docs/get-started/codelab
+
+## Technical Environment
+Operating System: Ubuntu 20.04LTS
+I install all packages via terminal with tar.gz and apt command
+I use for this example VS Code execute at terminal with command "flutter run" on main project folder
+
 A new Flutter project.
 
 ## Getting Started
